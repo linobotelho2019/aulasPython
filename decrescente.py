@@ -1,6 +1,5 @@
 decrescente = True
 anterior = int(input("Digite o primeiro número da sequência: "))
-
 valor = 1
 
 while valor != 0  and decrescente:
