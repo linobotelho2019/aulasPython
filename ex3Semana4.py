@@ -8,5 +8,4 @@ while n > 0:
     resto = n % 10
     n = n // 10
     soma = soma + resto
-
-print(, soma)
+print(soma)
